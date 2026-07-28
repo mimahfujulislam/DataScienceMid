@@ -65,7 +65,7 @@ The project uses the **Stroke Classification Dataset**, which contains **5,110 p
 ├── README.md
 ```
 ### Outlier Detection
-<img src="Output/output(3).png">
+<img src="Output/Output(3).png">
 
 ## 📈 Key Learning Outcomes
 
